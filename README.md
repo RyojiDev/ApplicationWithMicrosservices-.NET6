@@ -1,0 +1,1 @@
+# ApplicationWithMicrosservices-.NET6
